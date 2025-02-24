@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Private</name>
+   <tag></tag>
+   <elementGuidId>78125b17-6f49-48f0-8c5d-812c44c9cf6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Private')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.pa-ei[title=&quot;Private&quot;] .pa-dj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Private&quot;i >> div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ff53b84-4387-4885-a59c-46da46b2e220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>cc19d749-e795-421a-9998-5f1aea0723d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-co pa-e pa-q pa-dj flexbox</value>
+      <webElementGuid>0cc93cb7-8249-4108-94a7-74630e4e078e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Private</value>
+      <webElementGuid>875dffc1-6907-4721-bf6b-b1ece829c53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Private</value>
+      <webElementGuid>7c79adfd-9564-4389-8b4c-990ecc8a453f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-28ae75065fbe2480f2d05c4df5776c5a</value>
+      <webElementGuid>00d042d2-6230-402a-910c-141d4aa09870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Private')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      <webElementGuid>126cb83a-3bc2-4e1b-976b-94083a37d010</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Private')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      <webElementGuid>c10bd295-bc95-48f4-9e0c-68508dc410d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Private' or . = 'Private')]</value>
+      <webElementGuid>016a0832-5537-4ef1-88cb-4420f935e317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

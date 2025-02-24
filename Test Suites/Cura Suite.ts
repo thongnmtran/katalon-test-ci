@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Cura Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1d78dc8e-3292-49c2-84ac-57ad9a5b4246</testSuiteGuid>
+   <testCaseLink>
+      <guid>1ef54f7c-cec4-4671-b651-33de95f47890</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>43ccf6f7-3299-4b2f-abdc-13b6ea2da5f5</id>
+         <masked>false</masked>
+         <name>varA</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Cura</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6288a937-011b-430a-819a-affde5537520</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6288a937-011b-430a-819a-affde5537520</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varA</value>
+         <variableId>43ccf6f7-3299-4b2f-abdc-13b6ea2da5f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6288a937-011b-430a-819a-affde5537520</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varB</value>
+         <variableId>b781e8d2-89cb-46bd-9e11-221c0b17b0a7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

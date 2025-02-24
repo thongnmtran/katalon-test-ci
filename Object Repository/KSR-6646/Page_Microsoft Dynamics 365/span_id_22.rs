@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_id_22</name>
+   <tag></tag>
+   <elementGuidId>e79f60f0-5e34-4ff3-afcc-8be430c42ab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' canvasContentDiv ') and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-control-view ') and (position() = 3)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cp ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ms-Button-label ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.canvasContentDiv.appmagic-control-view:nth-child(3) > .cp .ms-Button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87be88d8-ae69-4cfb-b6dd-e063173b5d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-328</value>
+      <webElementGuid>81658b0d-f2a7-4529-a1b7-27c5e55508be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__22</value>
+      <webElementGuid>748aed8f-5bbe-4dbd-9dee-a7fe1bbdf5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>id_22</value>
+      <webElementGuid>a384dadc-7304-41d6-81e5-a3dc598f520b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>854c6ab4-60e2-401c-89ce-626f982e87e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a8a3e465edcce1b6459cba8d2079d0a8</value>
+      <webElementGuid>5e2906c2-4982-43de-a67c-697c3e15f4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' canvasContentDiv ') and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-control-view ') and (position() = 3)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cp ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ms-Button-label ')]</value>
+      <webElementGuid>c0dfc270-77ff-4351-9deb-d900c0610e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KSR-6646/Page_Microsoft Dynamics 365/iframe_fullscreen-app-host</value>
+      <webElementGuid>aa789552-dd84-40de-962d-59e5ba51d2c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' canvasContentDiv ') and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-control-view ') and (position() = 3)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cp ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ms-Button-label ')]</value>
+      <webElementGuid>43229fd6-5ce5-4f80-815b-9653d3de8a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'id__22' and (text() = 'id_22' or . = 'id_22')]</value>
+      <webElementGuid>43580c5e-0f89-41ea-af3e-2b41c672b466</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

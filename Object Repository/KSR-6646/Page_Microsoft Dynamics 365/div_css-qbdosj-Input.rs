@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_css-qbdosj-Input</name>
+   <tag></tag>
+   <elementGuidId>fd9d7f0b-10c9-48f3-9796-cd5c21c8bc5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' monthDropDown ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' css-qbdosj-Input ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(2) > .monthDropDown .css-qbdosj-Input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09dd54aa-cfbf-40f8-bc5b-b5dc33f8ccec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-qbdosj-Input</value>
+      <webElementGuid>bc80281e-1d62-4fcd-82c4-3d0e6aa2a955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>css-qbdosj-Input</value>
+      <webElementGuid>09360e88-7fc3-4cfc-847d-bce6a83a6fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-52cf6487b914e93069c531d9e710293b</value>
+      <webElementGuid>79a6c452-9cf8-448d-82a5-366653359021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' monthDropDown ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' css-qbdosj-Input ')]</value>
+      <webElementGuid>65ea985e-ff97-472e-8ba2-deeb1a06abc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KSR-6646/Page_Microsoft Dynamics 365/iframe_fullscreen-app-host</value>
+      <webElementGuid>de69c3c1-e7d7-4f3f-88be-3cd962d7e5fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' monthDropDown ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' css-qbdosj-Input ')]</value>
+      <webElementGuid>0ca37d5c-41dc-4dd6-904c-b8a7686664f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'css-qbdosj-Input' or . = 'css-qbdosj-Input')]</value>
+      <webElementGuid>b77f43f4-41ff-4ef8-89b7-b3eaa913894f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

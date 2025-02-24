@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add</name>
+   <tag></tag>
+   <elementGuidId>aec70ab7-fba8-429b-8851-5a9bbd34d1ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'pa-gallery-label-116']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' _vst_ ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-button-label ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;pa-gallery-label-116&quot;] ._vst_:nth-child(6) .appmagic-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>633ebb2a-e180-490b-83e0-439c1d22f05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appmagic-button-label no-focus-outline</value>
+      <webElementGuid>18b5c04d-94c2-4bc4-bd54-c85cd8af45b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-control-part</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>598e7098-b21c-484a-978a-3e88c320073e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>98df4162-7518-4b6c-b907-66d5e4c58505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>inlineEditText: properties.Text</value>
+      <webElementGuid>13a843d4-b600-4d14-b397-37b917db58b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add</value>
+      <webElementGuid>6dedefca-d1c4-4469-8d02-3824b31b0b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>+ Add</value>
+      <webElementGuid>4211eb7f-4106-48a1-953f-1bf58adf6b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8c4afa59851bbff9f1d4a4a5d4959f0f</value>
+      <webElementGuid>2c644ed2-5713-406e-912c-f6354fec4687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'pa-gallery-label-116']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' _vst_ ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-button-label ')]</value>
+      <webElementGuid>333ff4be-ab33-43b7-a1e0-a962cf6ee440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KSR-6646/Page_Microsoft Dynamics 365/iframe_fullscreen-app-host</value>
+      <webElementGuid>ec969893-d51f-4b1f-9efe-5b42c1603bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'pa-gallery-label-116']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' _vst_ ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' appmagic-button-label ')]</value>
+      <webElementGuid>7b37befa-b776-40e2-9243-1698fdc77226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+ Add' or . = '+ Add')]</value>
+      <webElementGuid>7b115bea-3515-4659-a2cd-3719c8a7e47c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

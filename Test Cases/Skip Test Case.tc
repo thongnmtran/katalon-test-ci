@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Skip Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3dac8fde-64e8-4df3-ab81-f273e2a6b818</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1047ad40-3625-48a4-b4ad-4da0c8597f16</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19b3f7f7-667e-4cc9-9463-ecb5ac1570f5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1047ad40-3625-48a4-b4ad-4da0c8597f16</id>
+      <masked>false</masked>
+      <name>varA</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19b3f7f7-667e-4cc9-9463-ecb5ac1570f5</id>
+      <masked>false</masked>
+      <name>varB</name>
+   </variable>
+</TestCaseEntity>

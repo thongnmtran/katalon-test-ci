@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_borderRed form-control creditCardToken fu</name>
+   <tag></tag>
+   <elementGuidId>1a68efa8-4b59-4d4b-8d21-c7b40067d407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' borderRed ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.borderRed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32c70587-5056-4b3b-a920-926954eda439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>220fccf8-e661-43bc-9a2a-b03cc3d3f0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>borderRed form-control creditCardToken fullWidth m-t-5</value>
+      <webElementGuid>e5758013-58c0-4753-829e-3b5b1ddfd6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>4412344112344113</value>
+      <webElementGuid>d965e0eb-7b95-4a09-8e03-f9d8ae5b0952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>borderRed form-control creditCardToken fu</value>
+      <webElementGuid>9ed638e9-af65-468e-a4a8-7846b130166b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cb386f56c436868b59ff32edaff28f0e</value>
+      <webElementGuid>2e6ee8fa-d9a2-49e3-ab1c-ab3d384b5e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' borderRed ')]</value>
+      <webElementGuid>0f855678-c55d-4a7f-becc-fd1e28f0dc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KSR-6646/Page_Microsoft Dynamics 365/iframe_fullscreen-app-host</value>
+      <webElementGuid>7cfd1b89-89f0-4bb7-9265-def038bec598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' borderRed ')]</value>
+      <webElementGuid>a2d971c4-ddef-40ee-b0f8-a93c3eeb26e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and (text() = 'borderRed form-control creditCardToken fu' or . = 'borderRed form-control creditCardToken fu')]</value>
+      <webElementGuid>358d9a4b-74dd-450f-a98b-b1ce3168e1c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

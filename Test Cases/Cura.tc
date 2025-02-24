@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cura</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3085fde-60f0-47ff-8340-9c9d042929fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>43ccf6f7-3299-4b2f-abdc-13b6ea2da5f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b781e8d2-89cb-46bd-9e11-221c0b17b0a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43ccf6f7-3299-4b2f-abdc-13b6ea2da5f5</id>
+      <masked>false</masked>
+      <name>varA</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b781e8d2-89cb-46bd-9e11-221c0b17b0a7</id>
+      <masked>false</masked>
+      <name>varB</name>
+   </variable>
+</TestCaseEntity>

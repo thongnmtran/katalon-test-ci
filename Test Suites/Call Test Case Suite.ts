@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Call Test Case Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>76bf3ca6-a1b1-4e62-a33a-c9081c01cd9d</testSuiteGuid>
+   <testCaseLink>
+      <guid>ef1a197d-5bc5-4e19-87db-fb3168bac65d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Call Test Case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>29987eed-94e1-4f43-bc5b-628c785df85c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>29987eed-94e1-4f43-bc5b-628c785df85c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varA</value>
+         <variableId>287db4dc-2bd5-4bd4-ba08-f4b8f00c2a29</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>29987eed-94e1-4f43-bc5b-628c785df85c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varB</value>
+         <variableId>b4a9c0ad-9e74-4542-b6ed-3c74da1c602b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>afc83990-1c44-4e03-a596-b9016e5299a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Skip Test Case</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1047ad40-3625-48a4-b4ad-4da0c8597f16</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>19b3f7f7-667e-4cc9-9463-ecb5ac1570f5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>00797f8c-36e9-4842-b924-0dac77dc36fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Cura</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>43ccf6f7-3299-4b2f-abdc-13b6ea2da5f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b781e8d2-89cb-46bd-9e11-221c0b17b0a7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a593d8b-897d-45a2-8fff-bed573a3984c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/operations/Verify Divide</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3ade7e12-fbd6-48f1-b407-e246c2690bea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/operations/Verify Minus</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

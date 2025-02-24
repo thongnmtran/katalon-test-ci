@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accounts</name>
+   <tag></tag>
+   <elementGuidId>d94fea71-233c-404d-8165-4213df534ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Accounts')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.pa-ei[title=&quot;Accounts&quot;] .pa-dj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Accounts&quot;i] >> div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef3035a9-41b0-45bd-a50e-14f591d526c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>faf44cb3-d3b3-40cb-ab5b-70105e59614d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-co pa-e pa-q pa-dj flexbox</value>
+      <webElementGuid>88f413c5-530a-4d47-adc2-922acf3b604b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accounts</value>
+      <webElementGuid>0ea78bf6-1eb0-44c9-8d09-b59e08b235eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Accounts</value>
+      <webElementGuid>af48c7a7-ff5a-441a-ba80-3f2eea86b291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-48d06d69e59d9bcbaf5050ae98ea4be0</value>
+      <webElementGuid>8ac51671-63bd-400d-b60e-078fbf1ab1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Accounts')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      <webElementGuid>cb809e76-b812-42a3-8ede-7ad6bb173fed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-ei ') and (@title = 'Accounts')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pa-dj ')]</value>
+      <webElementGuid>519288f8-a6b6-4547-a010-853278eeefdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accounts' or . = 'Accounts')]</value>
+      <webElementGuid>cc450fbc-f22a-4ad4-a15f-0d86aa612785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
